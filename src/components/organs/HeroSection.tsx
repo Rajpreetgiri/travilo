@@ -1,4 +1,3 @@
-import React from "react"
 import { Image } from "../atoms/Image"
 import bgImage from "../../assets/HeroVector.png"
 import heroImage from "../../assets/tourist-with-thumb-up.png"

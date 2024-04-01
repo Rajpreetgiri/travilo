@@ -1,4 +1,3 @@
-import React from "react"
 import AboutUs from "../organs/AboutUs"
 import BookingSteps from "../organs/BookingSteps"
 import HeroSection from "../organs/HeroSection"
